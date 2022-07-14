@@ -1,7 +1,7 @@
 <p align="center"><a href="https://facebook.com/sm.sohag007" target="_blank"><img src="https://user-images.githubusercontent.com/107453434/176463015-4baad7de-f888-4a12-9a30-4d059fb5d498.jpg"></a></p>
 
-## Laravel Live Tv Server
-MRSBD is developed for live server like tv streaming server built on Laravel 9
+## Laravel Inventory(POS) Software
+MRSBD is developed for Inventory like pos software built on Laravel 9
 
 ### Login System
 ![Screenshot_2](https://user-images.githubusercontent.com/107453434/176536061-312d9681-692b-412e-9380-8c8f19287332.jpg)
