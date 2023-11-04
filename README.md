@@ -1,7 +1,8 @@
-<p align="center"><a href="https://facebook.com/sm.sohag007" target="_blank"><img src="https://user-images.githubusercontent.com/107453434/176463015-4baad7de-f888-4a12-9a30-4d059fb5d498.jpg"></a></p>
+![Busniess-Web-Banner-05](https://github.com/Mostafizur008/inventory-software/assets/107453434/bf0c4eef-462d-409f-a60a-f33ab5b88779)
 
 ## Laravel Inventory (POS) Software
 MRSBD is developed for Inventory like pos software built on Laravel 9
+Link : https://m.mrsbd.xyz
 
 ### Login System
 ![Screenshot_2](https://user-images.githubusercontent.com/107453434/176536061-312d9681-692b-412e-9380-8c8f19287332.jpg)
